@@ -1,7 +1,7 @@
 
-  # Website for Psychologist Services
+  # Brandon Pessoa
 
-  This is a code bundle for Website for Psychologist Services. The original project is available at https://www.figma.com/design/J4CjY6m5EJXPJGPzmvjbms/Website-for-Psychologist-Services.
+  This is a code bundle for Brandon Pessoa. The original project is available at https://www.figma.com/design/J4CjY6m5EJXPJGPzmvjbms/Brandon-Pessoa.
 
   ## Running the code
 

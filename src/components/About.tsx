@@ -1,5 +1,6 @@
 import { CheckCircle } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
+import profileImage from 'figma:asset/b6447d2af3e9754eab5b909ffaf3d00fa60d53f7.png';
 
 const features = [
   'Atención personalizada y confidencial',
@@ -18,8 +19,8 @@ export function About() {
           <div className="relative">
             <div className="relative h-[500px] rounded-2xl overflow-hidden shadow-2xl">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1758273241078-8eec353836be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0aGVyYXB5JTIwY291bnNlbGluZyUyMHNlc3Npb258ZW58MXx8fHwxNzYxMDY5MjI0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-                alt="Sesión de terapia profesional"
+                src={profileImage}
+                alt="Brandon Alexander Pessoa Balcazar - Psicólogo Clínico"
                 className="w-full h-full object-cover"
               />
             </div>
